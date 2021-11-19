@@ -1,0 +1,11 @@
+{
+    "name": "ottophp/project",
+    "description": "The Otto project.",
+    "autoload": {
+        "psr-4": {
+            "Otto\\Project\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
